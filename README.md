@@ -9,6 +9,8 @@ Azure Connectors:
 4. blob store
 5. parquet
 6. eventhub
+7. OpenAI
+8. 
 
 AWS:
 1. RDS
